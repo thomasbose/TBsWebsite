@@ -1,11 +1,11 @@
 +++
 title = "Collective Decision Making of a Robot Swarm"
-date = 2019-04-02T08:30:15+01:00
+date = 2019-04-01
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["Decision Making"]
 
 # Project summary to display on homepage.
 summary = ""

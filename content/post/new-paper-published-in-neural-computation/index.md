@@ -44,4 +44,4 @@ This paper studies a model animal choosing between different food sources in an 
 
 **Publication:**
 
-- [T. Bose, A. Reina, J.A.R. Marshall, Neural Computation **31** (5), 1-27 (2019)](/publication/inhibition-and-excitation-shape-activity-selection/)
+- [T. Bose, A. Reina, J.A.R. Marshall, Neural Computation (*early access online*, scheduled to appear in Volume 31, Issue 5  (2019)](/publication/inhibition-and-excitation-shape-activity-selection/)
