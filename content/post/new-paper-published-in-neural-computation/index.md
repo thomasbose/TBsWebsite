@@ -38,10 +38,10 @@ categories = ["publication", "dissamination"]
   focal_point = ""
   preview_only = true
 +++
-{{< figure src="NeCo.png" width="400" >}}
+{{< figure src="featured.jpg" width="500" >}}
 
-This paper studies a model animal choosing between different food sources in an ongoing decision-making process. The decision-making circuit regulating the response is implemented via a generic neural hardware motif. Nonlinearities in the circuit influence the behaviour of the model animal. We find the unexpected result that inherent oscillations of neuronal activity may enhance decision-making performance.  The paper is scheduled to appear in the May 2019 issue of *Neural Computation* (Volume 31, Issue 5).
+This paper studies a model animal choosing between different food sources in an ongoing decision-making process. The decision-making circuit regulating the response is implemented via a generic neural hardware motif. Nonlinearities in the circuit influence the behaviour of the model animal. We find the unexpected result that inherent oscillations of neuronal activity may enhance decision-making performance. 
 
 **Publication:**
 
-- [T. Bose, A. Reina, J.A.R. Marshall, Neural Computation (*early access online*, scheduled to appear in Volume 31, Issue 5  (2019)](/publication/inhibition-and-excitation-shape-activity-selection/)
+- [T. Bose, A. Reina, J.A.R. Marshall, Neural Computation **31**: 870-896 (2019)](/publication/inhibition-and-excitation-shape-activity-selection/)

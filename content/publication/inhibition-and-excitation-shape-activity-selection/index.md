@@ -17,7 +17,7 @@ authors = ["T. Bose", "A. Reina", "J.A.R. Marshall"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Neural Computation (scheduled to appear in Volume 31, Issue 5"
+publication = "T. Bose, A. Reina, J.A.R. Marshall, Neural Computation **31**: 870-896 (2019)"
 publication_short = ""
 
 # Abstract.
