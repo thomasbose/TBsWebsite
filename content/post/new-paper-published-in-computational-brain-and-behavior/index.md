@@ -40,7 +40,7 @@ categories = ["publication", "dissamination"]
 +++
 {{< figure src="featured.png" width="600" >}}
 
-In this paper we study how decisions can be affected by varying frequencies and magnitudes of a perceptual stimulus in a simulated binary choice task. As a result, we find that reaction time distributions may resemble the periodicity of the external stimulus. The article is fully open access.
+In this paper we study how decisions can be affected by varying frequencies and magnitudes of a perceptual stimulus in a simulated binary choice task. As a result we find that reaction time distributions may resemble the periodicity of the external stimulus. The article is fully open access.
 
 **Publication:**
 
